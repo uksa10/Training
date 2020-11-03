@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 dsdssasasasdsdtdfgdfg
 sdsds
+=======
+asaasdsdsasasasdsdtdfgdfg
+
+>>>>>>> s.txt change
