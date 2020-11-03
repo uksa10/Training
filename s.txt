@@ -1,6 +1,2 @@
-<<<<<<< Updated upstream
-
-=======
-sdsddsdssasasasdsdtdfgdfg
->>>>>>> Stashed changes
+sdddsd
 
